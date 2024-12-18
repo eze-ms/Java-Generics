@@ -27,4 +27,5 @@ Este ejercicio en Java implementa una clase `NoGenericMethods` que almacena tres
 ## 🛠️ Instalación
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/eze-ms/NoGenericMethods-Exercise
+   git clone https://github.com/eze-ms/Java-Generics-N1-E1.git
+
